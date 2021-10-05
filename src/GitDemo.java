@@ -3,4 +3,6 @@ public class GitDemo {
         System.out.println("test from GitDemo project");
         System.out.println("added second line");
     }
+
+    public static void newMethod() { }
 }
